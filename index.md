@@ -101,6 +101,7 @@
     <tr style="text-align: right;">
       <th>audio file no_creak</th>
       <th>audio file creak</th>
+      <th>response_number</th>
       <th>no_creak</th>
       <th>creak</th>
       <th>same</th>
@@ -109,147 +110,147 @@
   </thead>
   <tbody>
     <tr><td><audio controls><source src="audio_journal_no_hes/0_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/0_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_0</th>
-      <td>0.67</td>
-      <td>0.00</td>
-      <td>0.33</td>
+      <td>67</td>
+      <td>0</td>
+      <td>33</td>
       <td>high</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/1_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/1_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_1</th>
-      <td>0.33</td>
-      <td>0.67</td>
-      <td>0.00</td>
+      <td>33</td>
+      <td>67</td>
+      <td>0</td>
       <td>high</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/2_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/2_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_2</th>
-      <td>0.78</td>
-      <td>0.22</td>
-      <td>0.00</td>
+      <td>78</td>
+      <td>22</td>
+      <td>0</td>
       <td>high</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/3_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/3_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_3</th>
-      <td>0.33</td>
-      <td>0.56</td>
-      <td>0.11</td>
+      <td>33</td>
+      <td>56</td>
+      <td>11</td>
       <td>high</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/4_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/4_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_4</th>
-      <td>0.78</td>
-      <td>0.22</td>
-      <td>0.00</td>
+      <td>78</td>
+      <td>22</td>
+      <td>0</td>
       <td>high</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/5_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/5_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_5</th>
-      <td>0.22</td>
-      <td>0.22</td>
-      <td>0.56</td>
+      <td>22</td>
+      <td>22</td>
+      <td>56</td>
       <td>high</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/0_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/0_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_0</th>
-      <td>0.67</td>
-      <td>0.00</td>
-      <td>0.33</td>
+      <td>67</td>
+      <td>0</td>
+      <td>33</td>
       <td>mid</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/1_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/1_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_1</th>
-      <td>0.33</td>
-      <td>0.67</td>
-      <td>0.00</td>
+      <td>33</td>
+      <td>67</td>
+      <td>0</td>
       <td>mid</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/2_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/2_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_2</th>
-      <td>0.78</td>
-      <td>0.22</td>
-      <td>0.00</td>
+      <td>78</td>
+      <td>22</td>
+      <td>0</td>
       <td>mid</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/3_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/3_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_3</th>
-      <td>0.33</td>
-      <td>0.56</td>
-      <td>0.11</td>
+      <td>33</td>
+      <td>56</td>
+      <td>11</td>
       <td>mid</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/4_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/4_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_4</th>
-      <td>0.78</td>
-      <td>0.22</td>
-      <td>0.00</td>
+      <td>78</td>
+      <td>22</td>
+      <td>0</td>
       <td>mid</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/5_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/5_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_5</th>
-      <td>0.22</td>
-      <td>0.22</td>
-      <td>0.56</td>
+      <td>22</td>
+      <td>22</td>
+      <td>56</td>
       <td>mid</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/0_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/0_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_0</th>
-      <td>0.67</td>
-      <td>0.00</td>
-      <td>0.33</td>
+      <td>67</td>
+      <td>0</td>
+      <td>33</td>
       <td>fast</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/1_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/1_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_1</th>
-      <td>0.33</td>
-      <td>0.67</td>
-      <td>0.00</td>
+      <td>33</td>
+      <td>67</td>
+      <td>0</td>
       <td>fast</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/2_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/2_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_2</th>
-      <td>0.78</td>
-      <td>0.22</td>
-      <td>0.00</td>
+      <td>78</td>
+      <td>22</td>
+      <td>0</td>
       <td>fast</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/3_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/3_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_3</th>
-      <td>0.33</td>
-      <td>0.56</td>
-      <td>0.11</td>
+      <td>33</td>
+      <td>56</td>
+      <td>11</td>
       <td>fast</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/4_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/4_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_4</th>
-      <td>0.78</td>
-      <td>0.22</td>
-      <td>0.00</td>
+      <td>78</td>
+      <td>22</td>
+      <td>0</td>
       <td>fast</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/5_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/5_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_5</th>
-      <td>0.22</td>
-      <td>0.22</td>
-      <td>0.56</td>
+      <td>22</td>
+      <td>22</td>
+      <td>56</td>
       <td>fast</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/0_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/0_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_0</th>
-      <td>0.67</td>
-      <td>0.00</td>
-      <td>0.33</td>
+      <td>67</td>
+      <td>0</td>
+      <td>33</td>
       <td>slow</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/1_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/1_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_1</th>
-      <td>0.33</td>
-      <td>0.67</td>
-      <td>0.00</td>
+      <td>33</td>
+      <td>67</td>
+      <td>0</td>
       <td>slow</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/2_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/2_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_2</th>
-      <td>0.78</td>
-      <td>0.22</td>
-      <td>0.00</td>
+      <td>78</td>
+      <td>22</td>
+      <td>0</td>
       <td>slow</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/3_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/3_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_3</th>
-      <td>0.33</td>
-      <td>0.56</td>
-      <td>0.11</td>
+      <td>33</td>
+      <td>56</td>
+      <td>11</td>
       <td>slow</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/4_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/4_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_4</th>
-      <td>0.78</td>
-      <td>0.22</td>
-      <td>0.00</td>
+      <td>78</td>
+      <td>22</td>
+      <td>0</td>
       <td>slow</td>
     </tr>
     <tr><td><audio controls><source src="audio_journal_no_hes/5_no_hes_nocreak_high_pitch.wav" type="audio/wav"></audio></td><td><audio controls><source src="audio_journal_no_hes/5_no_hes_creak_high_pitch.wav" type="audio/wav"></audio></td><th>response_5</th>
-      <td>0.22</td>
-      <td>0.22</td>
-      <td>0.56</td>
+      <td>22</td>
+      <td>22</td>
+      <td>56</td>
       <td>slow</td>
     </tr>
   </tbody>
