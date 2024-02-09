@@ -101,6 +101,7 @@
     <tr style="text-align: right;">
       <th>audio file no_creak</th>
       <th>audio file creak</th>
+      <th>response</th>
       <th>no_creak</th>
       <th>creak</th>
       <th>same</th>
