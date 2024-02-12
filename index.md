@@ -98,7 +98,7 @@
 
 # No hes ABX comparison
 
-<table border="1" class="dataframe"><tr>
+<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>audio file no_creak</th>
